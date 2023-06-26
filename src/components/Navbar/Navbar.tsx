@@ -13,7 +13,7 @@ const Navbar = () => {
 
   return (
     <>
-      <div className="flex justify-between align-baseline">
+      <div className="flex justify-between align-baseline m-4">
         <div className="flex gap-3 items-center lg:ml-4 lg:mt-4">
           <Image src={logo} alt="logo" width={30} height={18} />
           <h3 className="text-white text-[16px] font-medium leading-[22px] text-center ">
