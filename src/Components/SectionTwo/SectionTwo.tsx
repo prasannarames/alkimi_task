@@ -5,6 +5,7 @@ import { person2, percentIcon, cpuChipIcon, cubeIcon } from "@/assets";
 const SectionTwo = () => {
   return (
     <div>
+      
       <div className="md:flex md:justify-start md:mr-auto md:gap-4">
         <div className="md:w-[410px]">
           <h3 className="font-bold">DOLOR SIT</h3>

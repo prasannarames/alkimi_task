@@ -3,6 +3,7 @@ import React, { useState } from "react";
 import Image from "next/image";
 import { logo, menuOpen, menuClose } from "@/assets";
 import { navLinks } from "@/constants/navLinks";
+import SlideAnimation from "../SlideAnimation/SlideAnimation";
 
 const Navbar = () => {
   const [navMenu, setNavMenu] = useState(false);
@@ -61,7 +62,7 @@ const Navbar = () => {
               </ul>
             </div>
             <div>
-              <h3>SLIDER</h3>
+              <SlideAnimation/>
             </div>
           </div>
         )}
