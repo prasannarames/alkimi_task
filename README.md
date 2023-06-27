@@ -1,4 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Assessment Link
+
+- https://docs.google.com/document/d/1bXjkBZyx2xn5kxONoTdzvBLbdGOO001dcK7PPo_B-xU/edit
+
+## Live Link
+
+- https://alkimi-task.vercel.app
+
+## Tech stack
+
+- Nextjs
+- Tailwind css
+- Typescript
+
 
 ## Getting Started
 
