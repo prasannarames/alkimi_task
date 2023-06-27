@@ -1,9 +1,15 @@
-
+import Navbar from "@/Components/Navbar/Navbar";
+import SectionOne from "@/Components/SectionOne/SectionOne";
+import SectionTwo from "@/Components/SectionTwo/SectionTwo";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen">
-      <h1 className='text-white'>alkimi task</h1>
+    <main className="w-full flex flex-col justify-center">
+      <Navbar />
+      <div className="h-auto md:h-auto text-white m-5 md:m-auto">
+        <SectionOne />
+        <SectionTwo />
+      </div>
     </main>
-  )
+  );
 }
