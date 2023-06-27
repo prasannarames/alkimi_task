@@ -29,7 +29,7 @@ const About = () => {
             <p>LOREM</p>
           </div>
         </div>
-        {/* right */}
+       
         <p className="z-10 ml-[70px] mt-auto mb-auto pointer-events-none justify-end w-[575px] font-normal opacity-70">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad

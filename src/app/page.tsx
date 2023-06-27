@@ -1,4 +1,5 @@
 import About from "@/Components/About/About";
+import Footer from "@/Components/Footer/Footer";
 import Navbar from "@/Components/Navbar/Navbar";
 import SectionOne from "@/Components/SectionOne/SectionOne";
 import SectionThree from "@/Components/SectionThree/SectionThree";
@@ -15,8 +16,8 @@ export default function Home() {
       </div>
       <About />
       <SlideAnimation />
-
       <SectionThree />
+      <Footer />
     </main>
   );
 }

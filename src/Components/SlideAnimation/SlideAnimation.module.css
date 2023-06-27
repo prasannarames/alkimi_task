@@ -1,6 +1,6 @@
 .sliderContainer {
   width: 100%;
-  height: 35px; /* Adjust the height as needed */
+  height: 35px;
   overflow: hidden;
   background-image: linear-gradient(
     to right,
