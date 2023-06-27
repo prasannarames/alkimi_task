@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import { logo, menuOpen, menuClose } from "@/assets";
-import { navLinks } from "@/Constants/navLinks";
+import { navLinks } from "@/constants/navLinks";
 
 const Navbar = () => {
   const [navMenu, setNavMenu] = useState(false);
